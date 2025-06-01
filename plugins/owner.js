@@ -30,7 +30,7 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/e6rhto.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *𝘽𝙀𝙉-𝙏𝙀𝙉 𝙈𝘿* 〕━━┈⊷
+            caption: `╭━━〔 𝐽𝛩𝑆𝛨𝑈𝛥𝛭𝛥𝛭𝐵𝛩1 𝛯𝐶𝛩𝑈𝛮𝐵𝛥𝛮 𝙈𝘿* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -44,8 +44,8 @@ async (conn, mek, m, { from }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363290715861418@newsletter',
-                    newsletterName: '𝘽𝙀𝙉𝙏𝙀𝙉 𝙓𝙈𝘿',
+                    newsletterJid: '120363347365643318@newsletter',
+                    newsletterName: '𝐽𝛩𝑆𝛨𝑈𝛥𝛭𝛥𝛭𝐵𝛩1 𝛯𝐶𝛩𝑈𝛮𝐵𝛥𝛮 𝙓𝙈𝘿',
                     serverMessageId: 143
                 }            
             }
@@ -53,7 +53,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/x9g2rd.m4a' }, // Audio URL
+            audio: { url: 'https://files.catbox.moe/vpnq7.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
