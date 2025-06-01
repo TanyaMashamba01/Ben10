@@ -21,9 +21,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *┃🎮* *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)},GB / ${Math.round(require('os').totalmem / 1024 / 1024)},GB
 *┃🧑* *ᴅᴇᴠ* : *𝙏𝙔𝙇𝙊𝙍☯︎*
 *┃🚀* *ᴠᴇʀsɪᴏɴs* : *1.0.0*
-> ©𝘿𝙀𝙑 𝙏𝙔𝙇𝙊𝙍🎮
+> ©𝘿𝙀𝙑 J🅾🆂🅷🆄🅰🅼🅰🅼🅱🅾1 🆃🅴🅻🅺🅸🅽🅶🎮
 *╰════════════════⊷*
-*╭────𓃠︎⁠⁠⁠⁠* *DOWNLOAD-CMD* *𓃠︎⁠⁠⁠⁠* 
+*╭────𓃠︎⁠⁠⁠⁠* *MaDOWNLOADs-CMD🇿🇼* *𓃠︎⁠⁠⁠⁠* 
 *├🇰🇪* *.ғʙ*
 *├⬡* *.ɪɴꜱᴛᴀ*
 *├⬡* *.ᴠɪᴅᴇᴏ*
@@ -215,20 +215,20 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *├⬡* *.ᴅᴇꜰɪɴᴇ*
 *├🇧🇸* *.Dᴀɪʟʏꜰᴀᴄᴛ*
 *┕─────────────❒*
-> 𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙏𝙔𝙇𝙊𝙍🎲`;
+> 𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 ✦ ༒༆J҈ᵒˢʰᵘᵃᵐᵃᵐᵇᵒ1 N҈ᵉᵗᵏⁱⁿᵍ༆༒🎲`;
 
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/17km9c.jpg` },
+                image: { url: `https://b.top4top.io/p_3291qwfqu0.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363290715861418@newsletter',
-                        newsletterName: 'BentenXᴛᴇᴄʜ',
+                        newsletterJid: '120363347365643318@newsletter',
+                        newsletterName: '𝐽𝛩𝑆𝛨𝑈𝛥𝛭𝛥𝛭𝐵𝛩1 𝛯𝐶𝛩𝑈𝛮𝐵𝛥𝛮',
                         serverMessageId: 143
                     }
                 }
@@ -238,7 +238,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/24a9p1.mp4' },
+            audio: { url: 'https://files.catbox.moe/vpnq7.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
