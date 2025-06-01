@@ -6,7 +6,7 @@ cmd({
     alias: ["speed","pong"],use: '.ping',
     desc: "Check bot's response time.",
     category: "main",
-    react: "⚡",
+    react: "🇿🇼❤️‍🔥",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, sender, reply }) => {
@@ -32,7 +32,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const end = new Date().getTime();
         const responseTime = (end - start) / 1000;
 
-        const text = `> *𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿 𝙎𝙋𝙀𝙀𝘿 : ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
+        const text = `> *𝐉𝚯𝐒𝚮𝐔𝚫𝚳𝚫𝚳𝚩𝚯1 𝚵𝐂𝚯𝐔𝚴𝚩𝚫𝚴-𝙈𝘿 𝙎𝙋𝙀𝙀𝘿🇿🇼❤️‍🔥🫡 : ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
 
         await conn.sendMessage(from, {
             text,
@@ -41,8 +41,8 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363290715861418@newsletter',
-                    newsletterName: "PopkidXtech",
+                    newsletterJid: '120363347365643318@newsletter',
+                    newsletterName: "𝐽𝛩𝑆𝛨𝑈𝛥𝛭𝛥𝛭𝐵𝛩1 𝛯𝐶𝛩𝑈𝛮𝐵𝛥𝛮",
                     serverMessageId: 143
                 }
             }
@@ -69,7 +69,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const message = await conn.sendMessage(from, { text: '*PINGING...*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `*🔥 𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿 𝙎𝙋𝙀𝙀𝘿 : ${ping}ms*` }, { quoted: message })
+        await conn.sendMessage(from, { text: `*❤️‍🔥🇿🇼 𝐽𝛩𝑆𝛨𝑈𝛥𝛭𝛥𝛭𝐵𝛩1 𝛯𝐶𝛩𝑈𝛮𝐵𝛥𝛮-𝙈𝘿 𝙎𝙋𝙀𝙀𝘿 : ${ping}ms*` }, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
