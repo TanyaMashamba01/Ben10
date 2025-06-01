@@ -29,13 +29,13 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
 
-        let ytmsg = `📹 *𝘽𝙀𝙉𝙏𝙀𝙉 Video Downloader*
+        let ytmsg = `📹 *𝐽𝛩𝑆𝛨𝑈𝛥𝛭𝛥𝛭𝐵𝛩1 𝛯𝐶𝛩𝑈𝛮𝐵𝛥𝛮 Video Downloader*
 🎬 *Title:* ${yts.title}
 ⏳ *Duration:* ${yts.timestamp}
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> 𝙏𝙔𝙇𝙊𝙍 𝘽𝙔 𝙏𝙔𝙇𝙊𝙍❤️`;
+> 𝙏𝙔𝙇𝙊𝙍 𝘽𝙔 𝐉𝚯𝐒𝚮𝐔𝚫𝚳𝚫𝚳𝚩𝚯1 𝚵𝐂𝚯𝐔𝚴𝚩𝚫𝚴`;
 
         // Send video directly with caption
         await conn.sendMessage(
@@ -72,7 +72,7 @@ cmd({
         if (!yt.results.length) return reply("No results found!");
 
         const song = yt.results[0];
-        const apiUrl = `https://apis.davidcyriltech.my.id/youtube/mp3?url=${encodeURIComponent(song.url)}`;
+        const apiUrl = `https://api.giftedtech.my.id/youtube/mp3?url=${encodeURIComponent(song.url)}`;
         
         const res = await fetch(apiUrl);
         const data = await res.json();
