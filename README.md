@@ -63,7 +63,7 @@
 (No BAN. 100% safe) 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Tylorkix/Ben10&template=hhttps://github.com/Tylorkix/Ben10.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/TanyaMashamba01/Ben10&template=hhttps://github.com/TanyaMashamba01/Ben10.git)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
