@@ -1,7 +1,7 @@
 {
-  "name": "𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿",
-  "description": "Javascript WhatsApp bot made by Tylor",
-  "logo": "https://files.catbox.moe/17km9c.jpg",
+  "name": "𝐉𝚯𝐒𝚮𝐔𝚫𝚳𝚫𝚳𝚩𝚯1 𝚵𝐂𝚯𝐔𝚴𝚩𝚫𝚴-𝙈𝘿",
+  "description": "Javascript WhatsApp bot made by 𝐉𝚯𝐒𝚮𝐔𝚫𝚳𝚫𝚳𝚩𝚯1 𝚵𝐂𝚯𝐔𝚴𝚩𝚫𝚴",
+  "logo": "https://I.postimg.cc/4NdSqms8/MidKing.jpg",
   "keywords": ["BENTEN_XTECH"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝘽𝙀𝙉𝙏𝙀𝙉☯︎"
+      "value": "𝐽𝛩𝑆𝛨𝑈𝛥𝛭𝛥𝛭𝐵𝛩1 𝛯𝐶𝛩𝑈𝛮𝐵𝛥𝛮"
     }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "+"
     },
     
     "MODE": {
@@ -61,13 +61,13 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -79,34 +79,34 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY BENTEN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY 𝐉𝚯𝐒𝚮𝐔𝚫𝚳𝚫𝚳𝚩𝚯1 𝚵𝐂𝚯𝐔𝚴𝚩𝚫𝚴-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Tylor"
+      "value": "𝐉𝚯𝐒𝚮𝐔𝚫𝚳𝚫𝚳𝚩𝚯1 𝚵𝐂𝚯𝐔𝚴𝚩𝚫𝚴"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254748840328"
+      "value": "263738365135"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝘽𝙀𝙉𝙏𝙀𝙉-𝙈𝘿"
+      "value": "𝐉𝚯𝐒𝚮𝐔𝚫𝚳𝚫𝚳𝚩𝚯1 𝚵𝐂𝚯𝐔𝚴𝚩𝚫𝚴-𝙈𝘿"
 
       }, 
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
       
     },
     
@@ -125,7 +125,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/17km9c.jpg"
+      "value": "https://I.postimg.cc/4NdSqms8/MidKing.jpg"
     },
      
     "DESCRIPTION": {
